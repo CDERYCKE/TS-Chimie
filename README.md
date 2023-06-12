@@ -6,7 +6,8 @@ CH1 - Calcul pH avec formule du log
 CH2 - Tracé avec Matplotlib et modélisation avec linregress
 [![Basthon](https://basthon.fr/theme/assets/img/basthon.svg)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/CDERYCKE/TS-Chimie/master/CH2/Graphiques.ipynb)
 
-
+CH3 - Evolution des quantités de matière lors d'un titrage
+[![Basthon](https://basthon.fr/theme/assets/img/basthon.svg)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/CDERYCKE/TS-Chimie/master/CH3/Titrage.ipynb)
 
 
 
