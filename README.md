@@ -1,7 +1,7 @@
 # TS-Chimie
 
 CH1 - Calcul pH avec formule du log
-[![Basthon](https://basthon.fr/theme/assets/img/basthon.svg)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/CDERYCKE/TS-Chimie/master?filepath=pH.ipynb)
+[![Basthon](https://basthon.fr/theme/assets/img/basthon.svg)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/CDERYCKE/TS-Chimie/CH1 - Acides et Bases/master?filepath=pH.ipynb)
 
 CH10 - force des acides - Etat final et diagramme de distribution  
 
