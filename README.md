@@ -13,10 +13,11 @@ CH3 - Evolution des quantités de matière lors d'un titrage
 
 
 CH3 - Tracé de courbes pH et dérivée de pH lors d'un titrage
-[![Basthon](https://basthon.fr/theme/assets/img/basthon.svg)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/CDERYCKE/TS-Chimie/master/CH3/Titrage.ipynb)
+[![Basthon](https://basthon.fr/theme/assets/img/basthon.svg)](https://notebook.basthon.fr/?from=https://raw.githubusercontent.com/CDERYCKE/TS-Chimie/master/CH3%20-%20pH/Titrage-pH.ipynb)
 
 
 
+  
 
 CH10 - force des acides - Etat final et diagramme de distribution  
 
